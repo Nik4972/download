@@ -3,6 +3,10 @@
     "description": "Download file",
     "type": "project",
     "license": "BSD-3-Clause",
+    "require-dev": {
+        "knn/download": "dev-master"
+    },
+    
             "autoload": {
                 "psr-4": {
                     "knn\\download\\": "src/"
