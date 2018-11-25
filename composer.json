@@ -1,5 +1,5 @@
 {
-    "name": "download",
+    "name": "knn/download",
     "description": "Download file",
     "type": "project",
     "license": "BSD-3-Clause",
